@@ -1,0 +1,9 @@
+[2025-07-08 11:02:36] === Starting System Health Check ===
+[2025-07-08 11:02:37] CPU: 4.5%, RAM: 21.9%, Disk: 46.6%
+[2025-07-08 11:06:55] === Starting System Health Check ===
+[2025-07-08 11:06:56] CPU: 8.8%, RAM: 21.9%, Disk: 46.7%
+[2025-07-08 11:06:56] ✅ Ping to 8.8.8.8 succeeded (13 ms)
+[2025-07-08 11:06:56] ✅ Ping to google.com succeeded (11 ms)
+[2025-07-08 11:06:58] ❌ Ping to 192.168.1.1 FAILED.
+[2025-07-08 11:06:58] === Check Complete ===
+
